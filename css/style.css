@@ -95,15 +95,15 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 @media screen and (max-width: 768px) {
   .fh5co-nav {
-    padding: 20px 0;
+    padding: 10px 0;
   }
 }
 .fh5co-nav #fh5co-logo {
-  font-size: 40px;
+  font-size: 30px;
   margin: 0;
   padding: 0;
   line-height: 40px;
-  font-family: "Sacramento", Arial, serif;
+  font-family: "Dancing Script", Arial, serif;
 }
 .fh5co-nav a {
   padding: 5px 10px;
@@ -1182,7 +1182,7 @@ form label {
   line-height: 1.5;
   font-weight: bold;
   color: #764125;
-  font-family: "Sacramento", Arial, serif;
+  font-family: "Dancing Script", Arial, serif;
 }
 @media screen and (max-width: 768px) {
   .fh5co-heading h2 {
